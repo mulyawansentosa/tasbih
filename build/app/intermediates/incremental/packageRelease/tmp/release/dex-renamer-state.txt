@@ -1,0 +1,4 @@
+#Fri May 24 05:25:26 ICT 2019
+base.0=E\:\\Home Production\\Project\\Flutter\\tasbih\\tasbih\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

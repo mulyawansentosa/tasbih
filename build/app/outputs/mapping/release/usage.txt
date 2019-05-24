@@ -1,0 +1,5 @@
+com.flazhost.tasbih.BuildConfig
+com.flazhost.tasbih.R
+com.flazhost.tasbih.R$drawable
+com.flazhost.tasbih.R$mipmap
+com.flazhost.tasbih.R$style

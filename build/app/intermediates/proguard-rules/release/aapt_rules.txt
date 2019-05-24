@@ -1,0 +1,4 @@
+# Referenced at E:\Home Production\Project\Flutter\tasbih\tasbih\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class com.flazhost.tasbih.MainActivity { <init>(); }
+# Referenced at E:\Home Production\Project\Flutter\tasbih\tasbih\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
